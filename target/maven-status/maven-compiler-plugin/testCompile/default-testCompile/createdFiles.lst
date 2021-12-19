@@ -1,0 +1,5 @@
+com\orangehrm\checking\Addition.class
+com\orangehrm\constants\OrangeHrmConstants.class
+com\orangehrm\pages\Home_Page.class
+com\orangehrm\tests\Admin_login.class
+com\orangehrm\pages\AdminPage.class

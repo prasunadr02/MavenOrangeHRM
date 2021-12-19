@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4269" started-at="2021-12-19T19:48:59Z" finished-at="2021-12-19T19:49:03Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4269" started-at="2021-12-19T19:48:59Z" finished-at="2021-12-19T19:49:03Z">
+      <class name="com.orangehrm.checking.Addition">
+        <test-method status="PASS" signature="demo()[pri:0, instance:com.orangehrm.checking.Addition@764faa6]" name="demo" duration-ms="0" started-at="2021-12-19T19:49:03Z" finished-at="2021-12-19T19:49:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- com.orangehrm.checking.Addition -->
+      <class name="com.orangehrm.tests.Admin_login">
+        <test-method status="PASS" signature="adminlogin()[pri:0, instance:com.orangehrm.tests.Admin_login@64bce832]" name="adminlogin" duration-ms="4252" started-at="2021-12-19T19:48:59Z" finished-at="2021-12-19T19:49:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminlogin -->
+      </class> <!-- com.orangehrm.tests.Admin_login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
